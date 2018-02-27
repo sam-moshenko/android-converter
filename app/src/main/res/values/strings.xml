@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="Main_length_button">Length</string>
+    <string name="Main_mass_button">Mass</string>
+    <string name="Main_currency_button">Currency</string>
+
+    <string-array name="lengthUnits">
+        <item>meter</item>
+        <item>kilometr</item>
+    </string-array>
+
+    <string-array name="massUnits">
+        <item>gram</item>
+        <item>kilogram</item>
+    </string-array>
+
+    <string-array name="currencyUnits">
+        <item>RUB</item>
+        <item>USD</item>
+        <item>SOM</item>
+    </string-array>
+</resources>
